@@ -50,7 +50,7 @@ end
 
 
 
-svproj1_cnt U_svproj1_cnt(
+proj1_cnt U_svproj1_cnt(
 .clk            (clk),
 .reset_n        (reset_n),
 .i_num_cnt      (i_num_cnt),
